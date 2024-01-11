@@ -1,0 +1,27 @@
+<span id="a">guest@haloethans</span>:<span id="b">~</span><span id="c">$</span> cd haloethans.dev/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">guest@haloethans</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->website.txt<br/><br/>
+My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+
+Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that this looks like a hacking website but in reality it's not</p>
+Let me introduce myself..<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Hello my name is Ethan also known as HaloEthans i am a content creator and i make youtube videos i am new to program such amazing stuff with some amazing software for example.. html and css, javascript, python, flask, mysql, ruby, java, i don't know what else i should learn.. :) </p>
+What projects am i currently working on?.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently working on a wordle game at the moment with 100+ words to choose from and should be releasing in beta soon :)</p>
+<p> Why have i created this website? :)</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> I'm learning each day of each diffrent coding of all time i'm really good with tech and i will never stop using tech. My future job is to become a programmer/developer..<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>What Do i want to do when i'm a developer <br><br><br>In all honestly i haven't decieded of what path of programming i want to do.. So far i can see that i am really good with html and css and javascript.. i'm still learning python, flask, mysql, ruby, java, i don't know what else i should learn.. :) <a href="link"> Would you like to know some tips about programming if you said yes then enjoy these tips</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Always Stick to One Task at a Time. ...
+ Different People Find Different Things Easy. ...
+ Your Work Can Be Only 80% Complete. ...
+ Learn How to Google. ...
+ Don't Be Afraid to Ask for Help or to Help People Back. ...
+ Technology Always Changes.: <br>
+
+<p><a href="https://youtube.com/@haloethans">My YouTube</a></p>
+<p><a href="https://twitch.tv/haloethans">My Twitch</a></p>
+<p><a href="https://kick.com/haloethans">My Kick</a></p>
+<p><a href="https://tiktok.com/@haloethans">My TikTok</a></p>
+
+TAKE MY ADVICE, "<span id="k">never give up</span>". <!-- sjkfhskjf -->
+
+UPDATE, "<span id="k">MORE UPDATES TO THE SERVER/WEBSITE WILL BE COMING OUT SOON KEEP YOUR EYE OUT ;)</span>". <!-- sjkfhskjf -->
+
+<p>Happy Programming | Ethan</p>
